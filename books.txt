@@ -1,0 +1,3 @@
+Author1 Title1 10
+Author2 Title2 5
+Author3 Title3 8
